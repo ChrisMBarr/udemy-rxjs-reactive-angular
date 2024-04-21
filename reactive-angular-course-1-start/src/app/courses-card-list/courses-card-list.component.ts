@@ -1,5 +1,4 @@
 import { Component, EventEmitter, Input, OnInit, Output } from "@angular/core";
-import { CommonModule } from "@angular/common";
 import { Course } from "../model/course";
 import { MatDialog, MatDialogConfig } from "@angular/material/dialog";
 import { CourseDialogComponent } from "../course-dialog/course-dialog.component";
